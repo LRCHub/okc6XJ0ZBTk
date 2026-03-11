@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイム・ノット・ザット・ガール（リプライズ）",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-11T13:24:20.526304Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm Not That Girl (Reprise)",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_Not_That_Girl_(Reprise)_Ariana_Grande.txt"
+    }
+  ]
+}
